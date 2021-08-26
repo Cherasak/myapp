@@ -1,6 +1,4 @@
-import 'package:abctest/models/test.dart';
 import 'package:flutter/material.dart';
-
 import 'helper/helper.dart';
 
 class PlaceInfo extends StatefulWidget {
